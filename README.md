@@ -1,2 +1,2 @@
 # leam
-Source code and demo for Leam
+Source code and demo for Leam.
