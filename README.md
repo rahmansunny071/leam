@@ -1,2 +1,2 @@
 # Leam
-Leam is an integrated visual text analytics system that aims to combine the advantages of computational notebooks, spreadsheets, and visualization tools.
+Leam is a research prototype for integrated visual text analytics that aims to combine the advantages of computational notebooks, spreadsheets, and visualization tools.
